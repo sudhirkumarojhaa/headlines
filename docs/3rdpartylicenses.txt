@@ -319,6 +319,9 @@ MIT
 @ionic-native/status-bar
 MIT
 
+@angular/service-worker
+MIT
+
 zone.js
 MIT
 The MIT License
